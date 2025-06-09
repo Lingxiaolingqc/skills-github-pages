@@ -7,4 +7,4 @@ title: I'm learning to use github.
 However, it's hard for me to remember all the syntax of markdown so I'll just use these things and commit.
 
 
-<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right"/>
