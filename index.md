@@ -1,10 +1,7 @@
 ---
-title: I'm learning to use github.
+title: 骗子四圈假
 ---
-
-##  ***I'm trying to use html skills in this page, let's see if it works.***    
-    My way to achieve this is to put the image I just knew aside.                      
-However, it's hard for me to remember all the syntax of markdown so I'll just use these things and commit.
+**身为一个盗号dog,你的母亲如同滚木，你的父亲如同腐木你已失去其他亲属，让我们沉重哀悼**
 
 
-<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right"/>
+<img alt="龙图" src="https://huaban.com/pins/6005833124" width="100" align="right"/>
